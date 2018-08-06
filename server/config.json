@@ -1,0 +1,13 @@
+{
+    "socketIOPort": 4001,
+    "socketIOClient": "http://localhost:4001",
+
+    "firebase": {
+        "apiKey": "",
+        "authDomain": "",
+        "databaseURL": "",
+        "projectId": "",
+        "storageBucket": "",
+        "messagingSenderId": ""
+    }
+}

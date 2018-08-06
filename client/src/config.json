@@ -1,0 +1,4 @@
+{
+    "socketIOPort": 4001,
+    "socketIOClient": "http://localhost:4001"
+}
